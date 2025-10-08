@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Myriam Heusi
 
-<!--
-**MyriamHeusi/MyriamHeusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista e Desenvolvedora de Sistemas | Analista de Dados | Python · Power BI · SQL · Flask  
+Focada em transformar dados em decisões — com código limpo e visual profissional.
 
-Here are some ideas to get you started:
+## 🔧 Stack
+- **Linguagens:** Python (Pandas, NumPy), SQL  
+- **Visualização:** Power BI, Plotly  
+- **Web/Data:** Flask, APIs, Git/GitHub  
+- **Outros:** Excel avançado, ETL básico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Destaques
+- **Projeto Flask — Deploy no Render**  
+  Demo: https://flask-projeto-myriam.onrender.com/  
+  Código: https://github.com/MyriamHeusi/render_projeto  
+  *App com HTML/CSS + API JSON, deploy com Gunicorn/Render.*
+
+- **abc_do_saber (Python)**  
+  Código: https://github.com/MyriamHeusi/abc_do_saber  
+  *Projeto de estudo — lógica e Python puro. (README atualizado em breve)*
+
+## 📫 Contato
+**LinkedIn:** https://br.linkedin.com/in/myriam-heusi  
+**E-mail:** myriam.heusi@gmail.com
