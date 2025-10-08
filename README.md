@@ -17,7 +17,7 @@ Focada em transformar dados em decisões — com código limpo e visual profissi
 
 - **edu_python (Python)**  
   Código: https://github.com/MyriamHeusi/edu_python
-  *Projeto de estudo — lógica e Python puro. 
+  *Projeto de estudo — lógica e Python. 
 
 ## 📫 Contato
 **LinkedIn:** https://br.linkedin.com/in/myriam-heusi  
