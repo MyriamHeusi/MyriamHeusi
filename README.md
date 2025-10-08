@@ -7,7 +7,7 @@ Focada em transformar dados em decisões — com código limpo e visual profissi
 - **Linguagens:** Python (Pandas, NumPy), SQL  
 - **Visualização:** Power BI, Plotly  
 - **Web/Data:** Flask, APIs, Git/GitHub  
-- **Outros:** Excel avançado, ETL básico
+- **Outros:** Excel avançado, ETL, CI/CD
 
 ## 🚀 Destaques
 - **Projeto Flask — Deploy no Render**  
