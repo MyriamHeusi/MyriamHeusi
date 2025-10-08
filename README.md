@@ -15,7 +15,7 @@ Focada em transformar dados em decisões — com código limpo e visual profissi
   Código: https://github.com/MyriamHeusi/render_projeto  
   *App com HTML/CSS + API JSON, deploy com Gunicorn/Render.*
 
-- **abc_do_saber (Python)**  
+- **edu_python (Python)**  
   Código: https://github.com/MyriamHeusi/abc_do_saber  
   *Projeto de estudo — lógica e Python puro. (README atualizado em breve)*
 
