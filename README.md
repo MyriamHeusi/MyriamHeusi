@@ -16,8 +16,8 @@ Focada em transformar dados em decisões — com código limpo e visual profissi
   *App com HTML/CSS + API JSON, deploy com Gunicorn/Render.*
 
 - **edu_python (Python)**  
-  Código: https://github.com/MyriamHeusi/abc_do_saber  
-  *Projeto de estudo — lógica e Python puro. (README atualizado em breve)*
+  Código: https://github.com/MyriamHeusi/edu_python
+  *Projeto de estudo — lógica e Python puro. 
 
 ## 📫 Contato
 **LinkedIn:** https://br.linkedin.com/in/myriam-heusi  
